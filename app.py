@@ -5,8 +5,7 @@ import requests
 
 
 
-TMDB_API_KEY = "YOUR_API_KEY"
-
+TMDB_API_KEY = "Your_API_Key"
 
 st.set_page_config(
     page_title="Movie Recommender",

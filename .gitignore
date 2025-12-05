@@ -1,0 +1,13 @@
+# PyCharm / IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Large model/data files
+*.pkl
